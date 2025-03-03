@@ -1,0 +1,15 @@
+{
+  "name": "Hehe Main",
+  "short_name": "Hehe",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "top.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
